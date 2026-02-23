@@ -57,6 +57,4 @@ Combo format: NN-NN (example: GT-AG).
   examples/.
   ---------------------
 
-License
 
-TBD
